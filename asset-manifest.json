@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sumeet198830/TextUtils-React.git/static/css/main.31d6cfe0.css",
+    "main.js": "/sumeet198830/TextUtils-React.git/static/js/main.53eef8a5.js",
+    "static/js/787.719ec76d.chunk.js": "/sumeet198830/TextUtils-React.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/sumeet198830/TextUtils-React.git/index.html",
+    "main.53eef8a5.js.map": "/sumeet198830/TextUtils-React.git/static/js/main.53eef8a5.js.map",
+    "787.719ec76d.chunk.js.map": "/sumeet198830/TextUtils-React.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.53eef8a5.js"
+  ]
+}
